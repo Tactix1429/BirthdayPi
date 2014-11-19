@@ -24,6 +24,7 @@ public class Anzeige {
 
 	private JFrame frame;
 	private JTextField Geburtsdatum;
+	//This is the GUI
 
 	/**
 	 * Launch the application.
